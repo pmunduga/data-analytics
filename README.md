@@ -1,72 +1,79 @@
-Welcome to my GitHub portfolio — a curated collection of projects showcasing how I use data, analytics, and technology to drive real-world business impact.
-👋 About Me
-I am a data-driven transformation leader with experience across manufacturing, infrastructure, and social impact sectors. My work sits at the intersection of:
-•	📊 Data Analytics & Visualization
-•	⚙️ Operational Excellence (TPM, OEE, Performance Systems)
-•	🧠 Strategy & Organizational Transformation
-•	🤖 AI-enabled decision support
-I specialize in turning complex data into clear, actionable insights that drive performance and accountability.
-🧩 What You'll Find Here
-This portfolio highlights projects across four key areas:
-📊 1. Data Analytics & Dashboards
-•	Power BI dashboards for KPI tracking and executive reporting
-•	Data modeling using DAX, SQL, and Excel
-•	Automated reporting solutions
-⚙️ 2. Operational Performance Improvement
-•	OEE (Overall Equipment Effectiveness) tracking models
-•	TPM (Total Productive Maintenance) frameworks
-•	Performance management systems
-🧠 3. Strategy & Decision Support
-•	Balanced Scorecard implementations
-•	KPI governance frameworks
-•	Scenario and financial modeling
-🤖 4. AI & Automation
-•	AI-assisted analytics workflows
-•	Process automation using Python & Excel VBA
-•	Data pipeline optimization
-📌 Featured Projects
-🔹 Power BI Executive Dashboard
-Objective: Improve decision-making speed and visibility for leadership
-Tools: Power BI, DAX, Excel
-Impact:
-•	Reduced reporting time by 70%
-•	Improved KPI visibility across multiple sites
-🔹 KPI Governance Framework
-Objective: Standardize performance tracking across operations
-Tools: Excel, Power BI, SQL
-Impact:
-•	Enabled consistent KPI definitions across teams
-•	Improved accountability and performance tracking
-🔹 Operational Excellence (TPM) Analytics
-Objective: Improve equipment availability and reliability
-Tools: Power BI, Excel
-Impact:
-•	Identified key loss drivers
-•	Supported availability improvements across multiple facilities
-🛠️ Tools & Technologies
-•	Data & Analytics: Power BI, Excel (Advanced), SQL, Python, R
-•	Data Engineering: Snowflake, dbt
-•	Visualization: Power BI, Tableau 
-•	Automation: VBA, Python
-📈 My Approach
-I believe that data alone doesn’t drive value — adoption does.
-My work focuses on:
-•	Turning insights into decisions
-•	Aligning people, processes, and tools
-•	Building systems that sustain performance over time
-🌍 Industries Worked In
-•	Manufacturing & Industrial Operations
-•	Transportation & Infrastructure
-•	FMCG / Food & Beverage
-•	Non-profit & Development Programs
-🤝 Let’s Connect
-I’m always open to collaborating on impactful projects or discussing opportunities in:
-•	Data Analytics
-•	Business Transformation
-•	Strategy & Operations
-📫 LinkedIn: https://www.linkedin.com/in/patrick-munduga
-🌐 Portfolio Website: https://pmunduga.github.io/data-analytics.github.io/
-⭐ Final Note
-If you find any of these projects interesting or useful, feel free to:
-•	⭐ Star the repo, 🍴 Fork it, or 💬 Reach out
-“Turning data into decisions, and decisions into impact.”
+Patrick Munduga Portfolio
+
+Business Transformation | Operational Excellence | Decision Intelligence
+
+Welcome to my professional portfolio.
+
+I help organizations improve performance, productivity, and profitability through business transformation, operational excellence, analytics, and AI-enabled decision intelligence. My work spans manufacturing, transportation, energy, healthcare, retail, and public-sector organizations, helping leaders transform data into decisions and decisions into measurable business outcomes.
+
+Professional Summary
+
+I am a Business Transformation, Operational Excellence, and Decision Intelligence leader with experience delivering enterprise transformation initiatives, performance management systems, operational diagnostics, commercial analytics, and digital transformation solutions.
+
+Over the course of my career, I have:
+
+Delivered more than $30M in validated operational savings
+Supported transformation initiatives across manufacturing, transportation, and industrial operations
+Designed KPI architectures and performance management systems for multi-site organizations
+Built decision intelligence solutions that improve visibility, accountability, and execution
+Helped organizations evaluate and apply AI-enabled operating models and Agentic AI capabilities
+Portfolio Areas
+Business Transformation
+
+Projects focused on strategy execution, organizational effectiveness, operating model design, governance systems, and sustainable performance improvement.
+
+Operational Excellence
+
+Solutions supporting productivity improvement, reliability, maintenance transformation, workforce effectiveness, and continuous improvement.
+
+Analytics & Decision Intelligence
+
+Executive dashboards, KPI frameworks, performance analytics, and decision-support systems designed to accelerate insight generation and improve decision quality.
+
+Commercial Performance
+
+Revenue growth analytics, profitability analysis, customer segmentation, pricing analytics, and go-to-market performance management.
+
+AI & Digital Transformation
+
+Projects exploring AI-enabled decision intelligence, Agentic AI applications, digital operating models, and future-ready business capabilities.
+
+Core Capabilities
+Business Transformation
+Operational Excellence
+Performance Management
+Digital Transformation
+Decision Intelligence
+KPI Architecture
+Commercial Performance Management
+Analytics Strategy
+Data Governance
+Executive Dashboards
+Process Improvement
+Change Management
+Strategy Execution
+AI-Enabled Decision Support
+Technology Stack
+Power BI
+SQL
+Microsoft Fabric
+Tableau
+DAX
+Power Query (M)
+R
+Advanced Excel
+Education & Credentials
+MIT Sloan School of Management – MBA
+ESAMI Business School – MBA
+Makerere University – BSc Civil Engineering
+Balanced Scorecard Strategy Professional
+Leading Transformational Change
+Connect
+
+LinkedIn: https://www.linkedin.com/in/patrick-munduga
+
+Portfolio Website: https://pmunduga.github.io
+
+Email: patrick.munduga1@gmail.com
+
+"Transforming strategy into execution through operational excellence, analytics, and decision intelligence."
